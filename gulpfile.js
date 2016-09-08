@@ -108,10 +108,8 @@ compiler.all = function(done){
 
 // Deploy to gh-pages branch
 var deploy = function() {
-  return gulp.src('./out/**/*', { read: false })
-    .pipe(deployMaster({
-      repository: 'https://github.com/WritingCenterScheduler/WritingCenterScheduler.github.io'
-    }));
+  return gulp.src('./out/**/*')
+    .pipe(githubPages({"branch": "master"}));
 }
 
 // Start a HTTP server on --port (defaults to 8000) and watch for changes
