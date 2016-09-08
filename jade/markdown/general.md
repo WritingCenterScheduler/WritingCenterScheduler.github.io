@@ -8,6 +8,8 @@ Team meetings are at...
 
 Client meetings are at 1:30 PM every friday in the SASB South Writing Center
 
+Meetings with Diane are at Mondays from 2:40 PM - 3:30 PM.
+
 ## Contact Info and Roles
 
 * Brandon Davis (bd@unc.edu) - Product Manager
@@ -31,9 +33,9 @@ Client meetings are at 1:30 PM every friday in the SASB South Writing Center
 2. Thou shalt value extensibility and portability.
 3. Thou shalt write example code and unit tests as appropriate.
 4. Thou shalt follow the language style standards to the best of thine own ability 
-  a. For python, this means PEP8
-  b. For java, this means netbeans
-  c. ...
+..1. For python, this means PEP8
+..2. For java, this means netbeans
+..3. ...
 
 #### The commandments of responsibility
 
@@ -45,3 +47,5 @@ Client meetings are at 1:30 PM every friday in the SASB South Writing Center
 Our Journal is a Google Doc.  Anyone with a UNC CS account may comment.  [View Team Journal.](https://docs.google.com/a/cs.unc.edu/document/d/1m7bkKbaAAIxj2qUCbEodKDyvwG2fRXsw-r0_WBQhJ3k/edit?usp=sharing)
 
 ## Related Links
+
+* [source for this site](https://github.com/WritingCenterScheduler/WritingCenterScheduler.github.io)
