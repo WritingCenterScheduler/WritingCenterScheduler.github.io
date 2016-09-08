@@ -1,3 +1,8 @@
+# WritingCenterScheduler.github.io
+The COMP523 website repository.
+
+##Sprint 1 Development Branch
+
 # SWE Fall 2016
 The source of the website for SWE 2016.
 
@@ -47,3 +52,4 @@ This will compile assets and push them to the `gh-pages` branch.
 * NPM v2.*
 * Sass >= 3.4
 * Everything in `package.json`
+>>>>>>> master
