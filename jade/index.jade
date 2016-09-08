@@ -5,10 +5,12 @@ html
     link(rel='shortcut icon', type='image/ico', href='/img/favicon.ico')
     link(rel='stylesheet', href='css/index.css')
     script(type='text/javascript', src='js/main.js')
-    script $(window).load(init);
+    script $(window).on("load", init);
 
   body
 
     include ./shared/_navbar.jade
+
+    include:marked ./markdown/index.md
 
     include ./shared/_footer.jade
