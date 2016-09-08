@@ -1,5 +1,6 @@
 var concat = require('gulp-concat'),
     githubPages = require('gulp-gh-pages'),
+    deployMaster = require('gulp-deploy-git'),
     gulp = require('gulp'),
     http = require('node-static'),
     jade = require('gulp-jade'),
@@ -106,9 +107,11 @@ compiler.all = function(done){
 }
 
 // Deploy to gh-pages branch
-var deploy = function(){
-  return gulp.src('./out/**/*')
-    .pipe( githubPages() )
+var deploy = function() {
+  return gulp.src('./out/**/*', { read: false })
+    .pipe(deployMaster({
+      repository: 'https://github.com/WritingCenterScheduler/WritingCenterScheduler.github.io'
+    }));
 }
 
 // Start a HTTP server on --port (defaults to 8000) and watch for changes
