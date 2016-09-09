@@ -1,3 +1,5 @@
+[Meeting Time](/#meeting-time) | [Contact Info and Roles](/#contact-info-and-roles) | [Team Rules](/#team-rules) | [Journal](/#journal) | [Related Links](/#relatd-links)
+
 # The Writing Center - Work Study Scheduler
 
 The work study scheduler is a web application built for the UNC Writing Center with the intention of automatically collecting scheduling information from work study students in order to dynamically build a work schedule for all students at all Writing Center locations.

@@ -6,3 +6,5 @@ out
 .publish
 travel.html
 resources.html
+
+jade/markdown_out/*
