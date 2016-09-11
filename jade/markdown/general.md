@@ -1,4 +1,4 @@
-[Meeting Time](/#meeting-time) | [Contact Info and Roles](/#contact-info-and-roles) | [Team Rules](/#team-rules) | [Journal](/#journal) | [Related Links](/#related-links)
+[Meeting Time](#meeting-time) | [Contact Info and Roles](#contact-info-and-roles) | [Team Rules](#team-rules) | [Journal](#journal) | [Related Links](#related-links)
 
 # The Writing Center - Work Study Scheduler
 
