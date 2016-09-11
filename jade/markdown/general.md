@@ -38,22 +38,23 @@ Ryan Court      | rccourt@cs.unc.edu    | Chief Architect   | [pikovach](https:/
 
 #### The commandments of Version Control
 
-1. Thou shalt always use pull requests to merge code.
-2. Thou shalt peer review code.
-3. Thou shalt never squash and merge (leave the commit log the same during merges)
-4. Thou shalt keep a close eye on github, and read all discussions, issue, PRs, etc.
+1. always use pull requests to merge code.
+2. peer review code.
+3. don't squash and merge (leave the commit log the same during merges)
+4. keep a close eye on github, and read all discussions, issue, PRs, etc.
 
 #### The commandments of design
 
-1. Thou shalt write docstrings for public methods.
-2. Thou shalt value extensibility and portability.
-3. Thou shalt write example code and unit tests as appropriate.
-4. Thou shalt follow the language style standards to the best of thine own ability.
+1. write docstrings for public methods.
+2. value extensibility and portability.
+3. write example code and unit tests as appropriate.
+4. follow the language style standards to the best of thine own ability.
 
 #### The commandments of responsibility
 
-1. Thou shalt attend all team meetings or get the team's permission to miss.
-2. Thou shalt read the team messenger channel.
+1. attend all team meetings or get the team's permission to miss.
+2. read the team messenger chat and respond as quickly as possible.
+3. always ask questions and get help if you need it.
 
 ## Journal
 
