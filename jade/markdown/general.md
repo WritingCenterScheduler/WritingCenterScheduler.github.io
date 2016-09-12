@@ -31,8 +31,8 @@ Name            | Email                 | Role              | GitHub
 ---             | ---                   | ---               | ---
 Moazzam Kahn    | moazzam@live.unc.edu  | Client Manager    | [kmoazzam](https://github.com/kmoazzam)
 Brandon Davis   | davisba@cs.unc.edu    | Product Manager   | [subdavis](https://github.com/subdavis)
-Paul Kovach     | pikovach@live.unc.edu | Editor            | [rychco](https://github.com/rychco)
-Ryan Court      | rccourt@cs.unc.edu    | Chief Architect   | [pikovach](https://github.com/pikovach)
+Paul Kovach     | pikovach@live.unc.edu | Editor            | [pikovach](https://github.com/pikovach)
+Ryan Court      | rccourt@cs.unc.edu    | Chief Architect   | [rychco](https://github.com/rychco)
 
 ## Team Rules
 
