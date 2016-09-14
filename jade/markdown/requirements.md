@@ -4,6 +4,14 @@
 
 ## User Stories
 
+### #1 Administrator 
+
+As an administrator trying to schedule students for the writing center, I want to be able to automatically generate a schedule which will fill all of the required timeslots and schedules all returning tutors before filling the rest of the schedule with prospective hires so that I know which students to interview. After generating the schedule, I want to be able to modify the schedule as needed so that I can make individual adjustments as requested. Last, I want to be able to view each employee’s information, hours worked to date, and availability in a separate tab. 
+
+### #2 Work-Study student
+
+As a returning or potential work-study student, I want to be able to easily accessible website and I want to be able to easily enter and modify my availability. The website should have a calendar where I can easily modify my availability for each day and half-hour. I want to be able to view the master schedule after the master schedule has been set.  As a student I want the scheduler to schedule continuous blocks of tutoring blocks for me to minimize the time wasted traveling to and from the tutoring buildings and travel time. For example, working a two hour block is better than two one hour blocks in a day as this cuts the number of trips to and from the tutoring center in a day. 
+
 ## Personas
 
 ### #1 Janice the admin
