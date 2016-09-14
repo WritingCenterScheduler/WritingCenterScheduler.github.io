@@ -1,8 +1,8 @@
 [Project Concept](#project-concept) | [User Stories](#user-stories) | [Personas](#personas) | [Platform Analysis and Selection](#platform-analysis-and-selection)
 
-## Project Concept
+# Project Concept
 
-## User Stories
+# User Stories
 
 ### #1 Administrator 
 
@@ -12,7 +12,7 @@ As an administrator trying to schedule students for the writing center, I want t
 
 As a returning or potential work-study student, I want to be able to easily accessible website and I want to be able to easily enter and modify my availability. The website should have a calendar where I can easily modify my availability for each day and half-hour. I want to be able to view the master schedule after the master schedule has been set.  As a student I want the scheduler to schedule continuous blocks of tutoring blocks for me to minimize the time wasted traveling to and from the tutoring buildings and travel time. For example, working a two hour block is better than two one hour blocks in a day as this cuts the number of trips to and from the tutoring center in a day. 
 
-## Personas
+# Personas
 
 ### #1 Janice the admin
 
@@ -26,4 +26,4 @@ Phil is non-technical, and doesn't interact with this system very much.  Janice 
 
 Chenda is non-technical, but pretty good with web interfaces like facebook and google calendar.  She's applying for a job at the Writing Center, and Janice sent her an email to fill out some personal info.  When she gets some free time, she clicks the link and logs into a scheduling portal.  She's unsure exactly what Janice wanted, so she begins filling out any forms and fields the portal gives her.  She's excited about the prospects of a new job, and spends time clicking around to see what's behind all the buttons and navigation links.  After spending a while exploring, she submits her schedule and sends Janice an email saying the task is complete - just to make sure.
 
-## Platform Analysis and Selection
+# Platform Analysis and Selection
