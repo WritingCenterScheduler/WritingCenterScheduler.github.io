@@ -27,3 +27,7 @@ Phil is non-technical, and doesn't interact with this system very much.  Janice 
 Chenda is non-technical, but pretty good with web interfaces like facebook and google calendar.  She's applying for a job at the Writing Center, and Janice sent her an email to fill out some personal info.  When she gets some free time, she clicks the link and logs into a scheduling portal.  She's unsure exactly what Janice wanted, so she begins filling out any forms and fields the portal gives her.  She's excited about the prospects of a new job, and spends time clicking around to see what's behind all the buttons and navigation links.  After spending a while exploring, she submits her schedule and sends Janice an email saying the task is complete - just to make sure.
 
 # Platform Analysis and Selection
+
+# Functional Spec
+
+ [Fucntional Spec](static/FunctionalSpec523.pdf)
