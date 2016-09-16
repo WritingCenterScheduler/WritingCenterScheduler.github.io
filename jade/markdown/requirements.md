@@ -1,6 +1,8 @@
-[Project Concept](#project-concept) | [User Stories](#user-stories) | [Personas](#personas) | [Platform Analysis and Selection](#platform-analysis-and-selection)
+[Project Concept](#project-concept) | [User Stories](#user-stories) | [Personas](#personas) | [Platform Analysis and Selection](#platform-analysis-and-selection) | [Functional Spec](#functional-spec)
 
 # Project Concept
+
+[Project Concept](\assets\ProjectConcept.pdf)
 
 # User Stories
 
@@ -30,4 +32,4 @@ Chenda is non-technical, but pretty good with web interfaces like facebook and g
 
 # Functional Spec
 
- [Fucntional Spec](static/FunctionalSpec523.pdf)
+ [Functional Spec](\assets\FunctionalSpec523.pdf)
