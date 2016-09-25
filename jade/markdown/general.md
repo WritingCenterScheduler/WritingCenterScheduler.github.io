@@ -63,5 +63,6 @@ Our Journal is a public Google Doc.  Anyone with a UNC CS account may comment.
 
 ## Related Links
 
-* [Code for this site](https://github.com/WritingCenterScheduler/WritingCenterScheduler.github.io)
-* [Github org](https://github.com/WritingCenterScheduler)
+* [Website Source](https://github.com/WritingCenterScheduler/WritingCenterScheduler.github.io)
+* [Project Source](https://github.com/WritingCenterScheduler/Engine)
+* [Github Org](https://github.com/WritingCenterScheduler)
