@@ -10,7 +10,7 @@ As an administrator trying to schedule students for the writing center, I want t
 
 ### #2 Work-Study student
 
-As a returning or potential work-study student, I want to be able to easily accessible website and I want to be able to easily enter and modify my availability. The website should have a calendar where I can easily modify my availability for each day and half-hour. I want to be able to view the master schedule after the master schedule has been set.  As a student I want the scheduler to schedule continuous blocks of tutoring blocks for me to minimize the time wasted traveling to and from the tutoring buildings and travel time. For example, working a two hour block is better than two one hour blocks in a day as this cuts the number of trips to and from the tutoring center in a day. 
+As a returning or potential work-study student, I want an easily accessible website and I want to be able to easily enter and modify my availability. The website should have a calendar where I can easily modify my availability for each day and half-hour. I want to be able to view the master schedule after the master schedule has been set.  As a student I want the scheduler to schedule continuous blocks of tutoring blocks for me to minimize the time wasted traveling to and from the tutoring buildings and travel time. For example, working a two hour block is better than two one hour blocks in a day as this cuts the number of trips to and from the tutoring center in a day. 
 
 # Personas
 
