@@ -18,7 +18,7 @@ As a returning or potential work-study student, I want an easily accessible webs
 
 ### #1 Janice the admin
 
-Janice is non-technical, but must interact with this system a great deal at the beginning of the semester, and then make adjustments as the semester progresses.  Janice wants to produce an optimal work study schedule with as little user input as possible.  She can invite new users to the system, require them to fill out availability, and then easily generate a schedule when she's satisfied.  She also wants an intuitive interface for changing schedules later on.  It's very important that she not have to fight with the system to get her job done.  Janice is busy, and scheduling is not her main priority.
+Janice is non-technical, but must interact with this system a great deal at the beginning of the semester, and then make adjustments as the semester progresses.  Janice wants to produce an optimal work study schedule with as little user input as possible.  She can invite new users to the system, require them to fill out availability, and then easily generate a schedule when she's satisfied.  She also wants an intuitive interface for changing schedules later on.  It's very important that she not have to fight with the system to get her job done.  Janice is busy, and scheduling is not her main priority. Janice wants precise control and the ability to modify the schedule freely if she chooses to. 
 
 ### #2 Phil the work-study student
 
@@ -33,6 +33,8 @@ Chenda is non-technical, but pretty good with web interfaces like facebook and g
 After evaluating a few python solutions (Django, Flask) our team has decided to use Flask.
 
 Flask is lightweight, optimal for small applications, highly configurable, and more pythonic in design.  
+
+FullCalender will be the interface that we will be using to simplify the process of diplaying the front end representation of the schedule.
 
 # Functional Spec
 
