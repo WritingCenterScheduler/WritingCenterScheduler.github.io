@@ -1,4 +1,4 @@
-[Project Concept](#project-concept) | [User Stories](#user-stories) | [Personas](#personas) | [Platform Analysis and Selection](#platform-analysis-and-selection) | [Functional Spec](#functional-spec)
+[Project Concept](#project-concept) | [User Stories](#user-stories) | [Personas](#personas) | [Platform Analysis and Selection](#platform-analysis-and-selection) 
 
 # Project Concept
 
@@ -36,6 +36,4 @@ Flask is lightweight, optimal for small applications, highly configurable, and m
 
 FullCalender will be the interface that we will be using to simplify the process of diplaying the front end representation of the schedule.
 
-# Functional Spec
 
- [Functional Spec](\assets\FunctionalSpec523.pdf)
