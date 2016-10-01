@@ -12,6 +12,8 @@
 
 ## Design Document
 
+[Design Document](\assets\DesignDocument.pdf) 
+
 ## User Manual 
 
 ## Code
