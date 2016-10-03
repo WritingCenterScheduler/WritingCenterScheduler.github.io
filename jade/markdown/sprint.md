@@ -14,3 +14,5 @@ Functional Spec | Test Plan | Design Document | User Manual | Code
 
 * Primary: Extend scheduling algorithm from a single location to multiple locations.
 * Secondary: Begin development of backend webserver, link Engine model to ORM.
+
+[Milestone 2](https://github.com/WritingCenterScheduler/Engine/milestone/2)
