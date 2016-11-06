@@ -20,5 +20,3 @@
 Functional Spec | Test Plan | Design Document | User Manual | Code
 ---             | ---       | ---             | ---         | ---
 [Functional Spec](\assets\FunctionalSpec523.pdf) | [Test Plan](\assets\TestPlan.pdf) | [Design Document](\assets\DesignDocument.pdf) | Our website will include a help tab, one for the administrator and one for the students which will contain the information needed in order to properly use the website.  | [Code](https://github.com/WritingCenterScheduler)
-
-[Milestone 2](https://github.com/WritingCenterScheduler/Engine/milestone/2)
