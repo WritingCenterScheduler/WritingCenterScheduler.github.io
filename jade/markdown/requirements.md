@@ -1,4 +1,4 @@
-[Project Concept](#project-concept) | [User Stories](#user-stories) | [Personas](#personas) | [Platform Analysis and Selection](#platform-analysis-and-selection) 
+[Project Concept](#project-concept) | [User Stories](#user-stories) | [Personas](#personas) | [Platform Analysis and Selection](#platform-analysis-and-selection) | [Finalized Documentation](#finalized-documentation)
 
 # Project Concept
 
@@ -35,5 +35,11 @@ After evaluating a few python solutions (Django, Flask) our team has decided to 
 Flask is lightweight, optimal for small applications, highly configurable, and more pythonic in design.  
 
 FullCalender will be the interface that we will be using to simplify the process of diplaying the front end representation of the schedule.
+
+# Finalized Documentation
+
+Functional Spec | Test Plan | Design Document | User Manual | Code
+---             | ---       | ---             | ---         | ---
+[Functional Spec](\assets\FunctionalSpec523.pdf) | [Test Plan](\assets\TestPlan.pdf) | [Design Document](\assets\DesignDocument.pdf) | Our website will include a help tab, one for the administrator and one for the students which will contain the information needed in order to properly use the website.  | [Code](https://github.com/WritingCenterScheduler)
 
 
